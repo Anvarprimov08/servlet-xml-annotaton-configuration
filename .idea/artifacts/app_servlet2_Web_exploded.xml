@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="app_servlet2:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/app_servlet2_Web_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="app_servlet2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.24" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="app_servlet2/web/Web" />
+    </root>
+  </artifact>
+</component>
